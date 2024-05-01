@@ -1,0 +1,1 @@
+export { default as FamilyProfilePage } from "./family-profile-page"

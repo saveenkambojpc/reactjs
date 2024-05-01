@@ -1,0 +1,1 @@
+export { default as MemberDetailPage } from "./member-detail-page"
